@@ -32,7 +32,7 @@ This project analyzes customer data from a marketing campaign to identify purcha
 • Web vs Store Purchases: Store purchases were higher by 41.7%<br>
 
 <hr>
-<img src="https://github.com/Sonalimishra-777/Tomato/blob/main/Rotten_tomatoes.png?raw=true" alt="Pizza Dashboard" width="800">
+<img src="https://github.com/Sonalimishra-777/Marketing_Campaign_Analysis-Excel/blob/main/Marketing_campaign.png?raw=true" alt="Markiting Dashboard" width="800">
 <hr>
 <h2>🔍 Key Findings</h2>
 
